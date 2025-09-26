@@ -1,0 +1,52 @@
+for our<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 2: 1. CSS Essentials</title>
+    
+    <style>
+        
+    .funky-text{
+        background-color:white  ;
+        border: 6px solid pink;
+       font-family: cursive;
+	}
+    .happy{
+        background-color: pink;
+        font-family: arial;
+        border: 4px solid aqua;
+    }
+    </style>
+
+
+</head>
+<body>
+
+
+    <!-- This is the main container  page content -->
+    <div>
+        <h1 class="funky-text">My First CSS Page</h1>
+        <h1 class="happy">Happy day</h1>
+        <!-- TASK 0. TEST index1.html FILE in w3schools.com            -->
+
+
+<!-- TASK 1. Modify the in-page CSS above (.funky-text)        -->
+<!--   a. CHANGE the background colour                        -->
+<!--   b. CHANGE the border style                             -->
+<!--   c. INSERT a NEW property                               -->
+<!--       e.g. padding, font-family, font-weight             -->
+
+
+
+
+    </div>
+
+
+</body>
+</html>
+
+
+
+
+
